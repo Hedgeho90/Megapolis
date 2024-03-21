@@ -6,7 +6,7 @@
    
 ```git clone https://github.com/Hedgeho90/Megapolis.git```
    
-3. Переход в директорию Megapolis
+2. Переход в директорию Megapolis
 
 ```cd Megapolis```
 
